@@ -1,11 +1,18 @@
 # Task---1-CODETECH
 Name: Amruta Bhale
+
 Company: CODETECH IT SOLUTIONS
+
 Id: CT6WTDS358
+
 Domain: DATA SCIENCE
+
 Duration: July to September 2024
+
 Mentor: Muzammil Ahmed
+
 Task 1: Exploratory Data Analysis (EDA)
+
 
 Overview of the project:
 Objectives: 
