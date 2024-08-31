@@ -9,10 +9,9 @@ Domain: DATA SCIENCE
 
 Duration: July to September 2024
 
-Mentor: Muzammil Ahmed
+Mentor: Muzammil Ahmed 
 
 Task 1: Exploratory Data Analysis (EDA)
-
 
 Overview of the project:
 
