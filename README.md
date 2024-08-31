@@ -20,8 +20,8 @@ Objectives:
 
 1.Perform EDA on a dataset to understand its characteristics, distributions, correlations, and outliers.
 
-2. Visualize the findings using various plots to gain insights into the data.
-3. 
+2.Visualize the findings using various plots to gain insights into the data.
+
 
 Key Activities:
 1.Data loading: Load the dataset using pandas.
