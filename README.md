@@ -24,8 +24,11 @@ Objectives:
 
 
 Key Activities:
+
 1.Data loading: Load the dataset using pandas.
+
 2.Data Cleaning:  Check and handle missing values, duplicates, and any inconsistence in the data.
+
 3.Data Exploration:
 •	Summary Statistics: Compute summary statistics like mean, median, standard deviation, etc.
 •	Distribution Analysis: Plot histogram and box plots to understand the distribution of variables.
