@@ -15,9 +15,13 @@ Task 1: Exploratory Data Analysis (EDA)
 
 
 Overview of the project:
+
 Objectives: 
+
 1.Perform EDA on a dataset to understand its characteristics, distributions, correlations, and outliers.
+
 2. Visualize the findings using various plots to gain insights into the data.
+3. 
 
 Key Activities:
 1.Data loading: Load the dataset using pandas.
